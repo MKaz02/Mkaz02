@@ -10,10 +10,8 @@
     height: 10vh;
     width:100% ;
     padding:0 8%;
-    background:#D5C2A5;
-    position:relative;
-
-}
+    background:#ADDFB3;
+    position:relative;}
 nav{
     display:flex;
     align-items: center;
@@ -32,13 +30,13 @@ nav{
 }
 .nav-links li a{
     text-decoration: none;
-    color:#D5C2A5;
+    color:#ffffff;
     padding:5px 0;
     position:relative;
 }
 .nav-links li a: :after{
     content: '';
-    background: #D5C2A5;
+    background: #ADDFB3;
     width:0;
     height: 2px;
     position:absolute;
@@ -66,4 +64,4 @@ nav{
     margin-top: 17px;
     margin-bottom: 17px;
 }
-body { background-color:rgb(162,228,184)}
+body { background-color:rgb(255, 255, 255)}
