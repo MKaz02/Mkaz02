@@ -80,3 +80,10 @@ body { background-color:rgb(255, 255, 255)}
 #contact{
     font-size: 18px;
 }
+
+h1 {
+    font-family:"rockwell",san-serif;
+}
+p{
+    font-family: "bembo", serif;
+}
