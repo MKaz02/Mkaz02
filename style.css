@@ -67,18 +67,19 @@ nav{
 body { background-color:rgb(255, 255, 255)}
 
 #home{
-    
+    text-decoration: none;
     font-size: 18px;
 
 }
 
 #info{ 
-   
+    text-decoration: none;
     font-size: 18px;
 }
 
 #contact{
     font-size: 18px;
+    text-decoration: none;
 }
 
 h1 {
