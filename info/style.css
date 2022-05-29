@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Fserif;
+    box-sizing:border-box;
+}
+
+.title {
+    margin-left: 32px;
+}
+
+.header{
+    height: 15vh;
+    width:100% ;
+    background:#ADDFB3;
+    position: position: absolute; top: 0; }
+nav{
+    display:flex;
+    align-items: center;
+    justify-content:space-between ;
+}
+.logo{ 
+    width: 140px;
+}
+.nav-links{
+    padding: 28px 0;
+}
+.nav-links li{
+    display:inline-block
+    margin:0 15px;
+
+}
+.nav-links li a{
+    text-decoration: none;
+    color:#000000
+    padding:5px 0;
+    position:relative;
+}
+.nav-links li a: :after{
+    content: '';
+    background: #ADDFB3;
+    width:0;
+    height: 2px;
+    position:absolute;
+    bottom:0;
+    left: 0;
+    transition:width 0.5s;
+}
+.nav-links li a:hover: :after{
+    width:100%;
+}
+
+#toothBilledPigeon {
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+#northatlantic {
+    margin-top: 17px;
+    margin-bottom: 13px;
+}
+#seaturtle{
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+#rhinos{
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+body { background-color:rgb(255, 255, 255)}
+
+#home{
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: auto;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    float: right 12px;
+
+}
+
+.navbar{
+    float: right;
+    width: 100%;
+}
+
+.links {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 19px;
+}
+
+#info{ 
+    text-decoration: none;
+    font-size: 18px;
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    float:right 20px;
+}
+
+#contact{
+    font-size: 18px;
+    text-decoration: none;
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    float: right 35 px;
+}
+
+h1 {
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+p{
+    font-family: "Garamond", serif;
+}
+.links { margin-left: 38px;
+margin-right: 38px;
+}
