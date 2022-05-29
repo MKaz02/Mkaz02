@@ -72,6 +72,7 @@ body { background-color:rgb(255, 255, 255)}
     margin-left: auto;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
     Helvetica, Arial, "Lucida Grande", sans-serif;
+    float: left ;
 
 }
 
