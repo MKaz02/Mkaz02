@@ -113,5 +113,7 @@ p{
     font-family: "Garamond", serif;
 }
 .links { margin-left: 38px;
-margin-right: 38px;
+margin-right: 38px;}
+#welcome{
+    font-size: 30px;
 }
