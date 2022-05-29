@@ -76,6 +76,10 @@ body { background-color:rgb(255, 255, 255)}
 
 }
 
+.navbar{
+    float: right;
+}
+
 #info{ 
     text-decoration: none;
     font-size: 18px;
