@@ -72,7 +72,7 @@ body { background-color:rgb(255, 255, 255)}
     margin-left: auto;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
     Helvetica, Arial, "Lucida Grande", sans-serif;
-    float: right;
+    float: right 12px;
 
 }
 
@@ -81,7 +81,7 @@ body { background-color:rgb(255, 255, 255)}
     font-size: 18px;
     font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
     Helvetica, Arial, "Lucida Grande", sans-serif;
-    float:right ;
+    float:right 20px;
 }
 
 #contact{
@@ -89,7 +89,7 @@ body { background-color:rgb(255, 255, 255)}
     text-decoration: none;
     font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
     Helvetica, Arial, "Lucida Grande", sans-serif;
-    float: right;
+    float: right 35 px;
 }
 
 h1 {
